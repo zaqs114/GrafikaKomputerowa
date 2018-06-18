@@ -1,0 +1,15 @@
+Plan jest taki:
+
+mamy pole minowe, w ktorym plywaja sobie rybki.
+płynąć mogą też rekiny ( w jednym kierunku) i fajnie jakby im się np ruszała płetwa.
+
+
+TODO:
+
+-animacja ryby (rekina) -- np. żeby ruszała się jej tylnia płetwa
+
+-pływające (stojące też mogą być) rekiny w jednym kierunku
+
+jakieś jeszcze wodotryski?
+
+-"realniejsza" tekstura na tło

@@ -1,0 +1,7 @@
+.vs/
+Debug/
+Release/
+*.vcxproj.user
+*.sdf
+*.o
+main
